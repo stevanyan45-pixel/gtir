@@ -12,8 +12,8 @@ window.GTIR_CONFIG = {
   SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdjb3ZmZHFvZGpjZGJ6cnNpbHBnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ1NjIzODIsImV4cCI6MjExMDEzODM4Mn0.mZOb_3M2JICbgLZKtv4Qyb6NL3C5Nu8L_pLP8OT9yMY",
 
   SITE_NAME: "Գտիր.am",
-  CONTACT_PHONE: "+374 00 000 000",
-  CONTACT_EMAIL: "info@gtir.am",
+  CONTACT_PHONE: "+374 94 32 10 88",
+  CONTACT_EMAIL: "sonamovses@inbox.ru",
   CONTACT_ADDRESS: "Երևան, Հայաստան",
   INSTAGRAM: "https://instagram.com/",
   FACEBOOK: "https://facebook.com/",
